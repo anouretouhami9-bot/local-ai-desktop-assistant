@@ -1,0 +1,86 @@
+[
+  {
+    "action": "write_file",
+    "path": "shoestia-store\\index.html",
+    "created": true,
+    "backup": null,
+    "ts": 1795480791
+  },
+  {
+    "action": "write_file",
+    "path": "shoestia-store\\css\\style.css",
+    "created": true,
+    "backup": null,
+    "ts": 1795480791
+  },
+  {
+    "action": "write_file",
+    "path": "shoestia-store\\js\\products.js",
+    "created": true,
+    "backup": null,
+    "ts": 1795480792
+  },
+  {
+    "action": "write_file",
+    "path": "shoestia-store\\js\\app.js",
+    "created": true,
+    "backup": null,
+    "ts": 1795480792
+  },
+  {
+    "action": "write_file",
+    "path": "shoestia-store\\images\\.gitkeep",
+    "created": true,
+    "backup": null,
+    "ts": 1795480792
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\index.html",
+    "created": true,
+    "backup": null,
+    "ts": 1795481813
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\test.html",
+    "created": true,
+    "backup": null,
+    "ts": 1795487605
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\index.html",
+    "created": true,
+    "backup": null,
+    "ts": 1795487677
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\css\\style.css",
+    "created": true,
+    "backup": null,
+    "ts": 1795487677
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\js\\products.js",
+    "created": true,
+    "backup": null,
+    "ts": 1795487677
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\js\\app.js",
+    "created": true,
+    "backup": null,
+    "ts": 1795487677
+  },
+  {
+    "action": "write_file",
+    "path": "C:\\Users\\hp\\Desktop\\shoestia-store\\images\\.gitkeep",
+    "created": true,
+    "backup": null,
+    "ts": 1795487677
+  }
+]
